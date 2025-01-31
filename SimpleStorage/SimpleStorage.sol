@@ -1,3 +1,5 @@
+// DESCRIPTION: A simple Solidity smart contract to store favorite numbers
+
 // SPDX-License-Identifier: MIT
 
 pragma solidity 0.8.24;
