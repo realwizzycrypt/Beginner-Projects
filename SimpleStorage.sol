@@ -1,11 +1,10 @@
-//SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT
+
 pragma solidity 0.8.24;
 
 contract SimpleStorage{
 
     uint256 myFavoriteNumber; // 0
-
-    //uint256[] listOfFavoriteNumbers;
 
     struct Person{
         uint256 favoriteNumber;
@@ -16,7 +15,7 @@ contract SimpleStorage{
 
     mapping(string => uint256) public nameToFavoriteNumber;
 
-    function store(uint256 _favoriteNumber) public {
+    function store(uint256 _favoriteNumber) public virtual {
         myFavoriteNumber = _favoriteNumber;
     } 
 
