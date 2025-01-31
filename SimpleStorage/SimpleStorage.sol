@@ -1,4 +1,4 @@
-// DESCRIPTION: A simple Solidity smart contract to store favorite numbers
+// DESCRIPTION: A simple solidity smart contract to store favorite numbers
 
 // SPDX-License-Identifier: MIT
 
