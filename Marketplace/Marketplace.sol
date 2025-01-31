@@ -1,3 +1,5 @@
+// DESCRIPTION: A simple Marketplace to add and buy items without funds transfer
+
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.19;
