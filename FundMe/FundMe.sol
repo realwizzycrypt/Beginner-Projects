@@ -1,4 +1,5 @@
-// DESCRIPTION: A simple fund-raising smart contract that allows the public to fund the owner (with nothing less than $5) by sending/transfering funds to the contract.
+// DESCRIPTION: A simple fund-raising smart contract that allows the public to fund the owner (with nothing less than $5)...
+// ...by sending/transfering funds to the contract.
 // After which only the contract owner can withdraw the received funds.
 
 // SPDX-License-Identifier: MIT
